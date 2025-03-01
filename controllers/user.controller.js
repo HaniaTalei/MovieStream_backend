@@ -1,4 +1,3 @@
-
 const { query } = require('../config/db');
 
 // Get all users (admin only)

@@ -29,7 +29,6 @@ app.use('/auth', authRoutes);
 app.use('/movies', movieRoutes);
 app.use('/api/watchlist', watchlistRoutes);
 app.use('/movies', commentRoutes);
-
 app.use('/rates', movieRoutes);
 
 
